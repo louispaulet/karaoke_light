@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 30px;
+}
+
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+#text {
+  font-size: 24px;
+}
+
+#text span {
+  color: #333;
+}
+
+#text span.active {
+  color: #f00;
+}

@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  text-align: center;
+  text-align: left;
   background-color: #f0f0f0;
   padding: 30px;
 }
@@ -20,4 +20,6 @@ body {
 
 #text span.active {
   color: #f00;
+  font-family: Arial, sans-serif;
+  text-align: left;
 }
